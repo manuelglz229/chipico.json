@@ -1,12 +1,12 @@
 ﻿{
-  "name": "Chipico(in)",
+  "name": "Chipicoin",
   "symbol": "CHIP",
-  "description": "Chipico, the millionaire cat who gives tokens to friends. Join the joke and collect his feline fortune!",
-  "image": "https://i.imgur.com/AzarFqX.png",
+  "description": "Chipicoin, the millionaire cat who gives tokens to friends. Join the joke and collect his feline fortune!",
+  "image": "https://i.imgur.com/dE3vRcW.png",
   "properties": {
     "files": [
       {
-        "uri": "https://i.imgur.com/AzarFqX.png",
+        "uri": "https://i.imgur.com/dE3vRcW.png",
         "type": "image/png"
       }
     ],
@@ -14,4 +14,5 @@
   }
 
 }
+
 
