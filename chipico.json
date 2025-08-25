@@ -2,14 +2,15 @@
   "name": "Chipico(in)",
   "symbol": "CHIP",
   "description": "Chipico, the millionaire cat who gives tokens to friends. Join the joke and collect his feline fortune!",
-  "image": "https://i.imgur.com/JHWXrD9.png",
+  "image": "https://imgur.com/a/TuayXRa",
   "properties": {
     "files": [
       {
-        "uri": "https://i.imgur.com/JHWXrD9.png",
+        "uri": "https://imgur.com/a/TuayXRa",
         "type": "image/png"
       }
     ],
     "category": "image"
   }
+
 }
